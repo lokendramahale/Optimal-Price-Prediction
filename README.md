@@ -144,4 +144,4 @@ For any queries or suggestions, feel free to contact:
 
 - **Name**: Lokendra Mahale
 - **Email**: [lokendramahale2023@gmail.com]
-- **LinkedIn**: [(https://www.linkedin.com/in/lokendra-mahale)]
+- **LinkedIn**: [(https://www.linkedin.com/in/lokendra-mahale-75ba1129b)]
