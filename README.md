@@ -42,7 +42,7 @@ Here’s how it works:
 
 1. Clone the repository:
    ```bash
-   https://github.com/kshitijrat/Optimal-Price.git
+   https://github.com/lokendramahale/Optimal-Price-Prediction.git
    ```
 
 2. Navigate to the project directory:
@@ -142,6 +142,6 @@ Predicted Optimal Price: $16.5
 
 For any queries or suggestions, feel free to contact:
 
-- **Name**: Kshitij Ratnawat
-- **Email**: [kshitijratnawat@gmail.com]
-- **LinkedIn**: [(https://www.linkedin.com/in/kshitij-ratnawat/)]
+- **Name**: Lokendra Mahale
+- **Email**: [lokendramahale2023@gmail.com]
+- **LinkedIn**: [(https://www.linkedin.com/in/lokendra-mahale)]
